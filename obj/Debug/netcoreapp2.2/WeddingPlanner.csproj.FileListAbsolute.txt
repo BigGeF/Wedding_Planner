@@ -1,0 +1,90 @@
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.csprojAssemblyReference.cache
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.csproj.CoreCompileInputs.cache
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.RazorAssemblyInfo.cache
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.RazorAssemblyInfo.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.AssemblyInfoInputs.cache
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.AssemblyInfo.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/bin/Debug/netcoreapp2.2/WeddingPlanner.deps.json
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/bin/Debug/netcoreapp2.2/WeddingPlanner.runtimeconfig.json
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/bin/Debug/netcoreapp2.2/WeddingPlanner.runtimeconfig.dev.json
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/bin/Debug/netcoreapp2.2/WeddingPlanner.dll
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/bin/Debug/netcoreapp2.2/WeddingPlanner.pdb
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/bin/Debug/netcoreapp2.2/WeddingPlanner.Views.dll
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/bin/Debug/netcoreapp2.2/WeddingPlanner.Views.pdb
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.TagHelpers.input.cache
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.TagHelpers.output.cache
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.RazorCoreGenerate.cache
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.RazorTargetAssemblyInfo.cache
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.RazorTargetAssemblyInfo.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.Views.pdb
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.dll
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.pdb
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/WeddingPlanner.csproj.CopyComplete
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Dashboard.g.cshtml.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/NewWedding.g.cshtml.cs
+/Users/lewisliu/Desktop/codingDojo/dotnet/EntityFramework/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/PlanDetail.g.cshtml.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\bin\Debug\netcoreapp2.2\WeddingPlanner.deps.json
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\bin\Debug\netcoreapp2.2\WeddingPlanner.runtimeconfig.json
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\bin\Debug\netcoreapp2.2\WeddingPlanner.runtimeconfig.dev.json
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\bin\Debug\netcoreapp2.2\WeddingPlanner.dll
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\bin\Debug\netcoreapp2.2\WeddingPlanner.pdb
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\bin\Debug\netcoreapp2.2\WeddingPlanner.Views.dll
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\bin\Debug\netcoreapp2.2\WeddingPlanner.Views.pdb
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.csprojAssemblyReference.cache
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.csproj.CoreCompileInputs.cache
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.RazorAssemblyInfo.cache
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.RazorAssemblyInfo.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.AssemblyInfoInputs.cache
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.AssemblyInfo.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.TagHelpers.input.cache
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.TagHelpers.output.cache
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.RazorCoreGenerate.cache
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Dashboard.g.cshtml.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\NewWedding.g.cshtml.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\PlanDetail.g.cshtml.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.RazorTargetAssemblyInfo.cache
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.RazorTargetAssemblyInfo.cs
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.Views.pdb
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.dll
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.pdb
+C:\Program Files\codingdojo\C#\Entity_Freamework\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.csproj.CopyComplete
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.csprojAssemblyReference.cache
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.csproj.CoreCompileInputs.cache
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.RazorAssemblyInfo.cache
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.RazorAssemblyInfo.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.AssemblyInfoInputs.cache
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.AssemblyInfo.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.TagHelpers.input.cache
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.TagHelpers.output.cache
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.RazorCoreGenerate.cache
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Dashboard.g.cshtml.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\NewWedding.g.cshtml.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\PlanDetail.g.cshtml.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.RazorTargetAssemblyInfo.cache
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.RazorTargetAssemblyInfo.cs
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.dll
+C:\Program Files\codingdojo\C#\C#test\WeddingPlanner\obj\Debug\netcoreapp2.2\WeddingPlanner.pdb

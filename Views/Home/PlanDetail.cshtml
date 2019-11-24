@@ -1,0 +1,40 @@
+@{
+    ViewData["Title"] = "Wedding Detail";
+}
+
+@using WeddingPlanner.Models
+@model DetailWrap
+
+<div class="row">
+    <div class="col-6">
+        <h1>@Model.ThisPlan.Title </h1> 显示title
+    </div>
+    <div class="col-3">
+        <a href="/dashboard">Dashboard</a>
+    </div>
+    <div class="col-3">
+        <a href="/logout">Logout</a>
+    </div>
+</div>
+
+    <div></div>
+<div class="row">
+    <p>Date: @Model.ThisPlan.Date</p>
+</div>
+
+<div class="row">
+    <div class="col-6">
+        <p>Guests:</p>
+        <ul>
+            @{
+                foreach (var item in @Model.Guests)
+                {
+                    <li>@item.FirstName @item.LastName</li>
+                }
+            }
+        </ul>
+    </div>
+    <div class="col-6">
+        <p>GOOGLE MAP HERE</p>
+    </div>
+</div>

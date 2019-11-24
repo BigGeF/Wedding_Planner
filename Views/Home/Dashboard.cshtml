@@ -1,0 +1,59 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+@using WeddingPlanner.Models
+@model Dashboard
+<div class="row">
+    <div class="col-9">
+        <h1>Welcome to the Wedding Planner!</h1>
+    </div>
+    <div class="col-3">
+        <a href="/logout">Logout</a>
+    </div>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Wedding</th>
+            <th scope="col">Date</th>
+            <th scope="col"># of Guest</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var item in @Model.AllPlans)
+            {
+                <tr>
+                    <td scope="col">
+                        <a href="/detail/@item.PlanId">@item.Wedder1 & @item.Wedder2</a>
+                    </td>
+                    <td scope="col">@item.Date</td>
+                    <td scope="col">@item.Guest.Count</td>
+                    @{
+                        if (@Model.CurrentUserId == @item.CreatedBy)
+                        {
+                            <td scope="col">
+                                <a href="/delete/@item.PlanId">Delete</a>
+                            </td>
+                        } 
+                        else if (@item.Guest.Any(planner=>planner.UserId == @Model.CurrentUserId) == true)
+                        {
+                            <td scope="col">
+                                <a href="/rsvp/@item.PlanId">RSVP</a>
+                            </td>
+                        } 
+                        else if (@item.Guest.Any(planner=>planner.UserId == @Model.CurrentUserId) == false)
+                        {
+                            <td scope="col">
+                                <a href="/unrsvp/@item.PlanId">Un-RSVP</a>
+                            </td>
+                        }
+                    }
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<a class="btn btn-primary" href="/new-wedding" role="button">New Wedding</a>
